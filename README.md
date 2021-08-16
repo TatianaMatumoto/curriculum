@@ -36,6 +36,7 @@ Graduada com <em>Honra Láurea</em> em Tecnologia de Análise e Desenvolvimento 
 
 ## Trabalhos anteriores
 
+- Suporte Técnico - AsA Sistemas (2020) 
 - Estágio de Informática Educacional na escola pública municipal  'EMEFI Amador Franco da Silveira' (2019) - Assistente de classe
 - Estágio de Informática Educacional na escola pública municipal 'EMEFI Sérgio Liberatti' (2019) - Assistente de classe
 - Trabalho voluntário na Biblioteca Pública Municipal de Dracena 'Professora Nilce Teresinha Arinos de Carvalho' (2019) - Operacional e Atendimento 
