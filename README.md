@@ -6,7 +6,7 @@
 
 ## Formação
 
-Graduada com <em>Honra Láurea</em> em Tecnologia de Análise e Desenvolvimento de Sistemas em Dracena (2020)
+- Graduada com <em>Honra Láurea</em> em Tecnologia de Análise e Desenvolvimento de Sistemas em Dracena (2020)
 
 
 ## Habilidades & Competências
