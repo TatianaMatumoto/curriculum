@@ -11,6 +11,9 @@ Graduada com <em>Honra Láurea</em> em Tecnologia de Análise e Desenvolvimento 
 
 ## Habilidades & Competências
 
+- Curso Online de escrita criativa (Módulo II) - Manual Prático do Criador de Histórias (2021) 
+- Curso Online de escrita criativa (Módulo I) - Manual Prático do Criador de Histórias (2021) 
+- WordPress na Prática - Rock University (2021) 
 - Fundamentos do Design Gráfico - Fundação Bradesco (2021)
 - 6° Maratona de UX Design - UX Unicórnio (2020)
 - Curso Git e GitHub - EaD Education (2020)
