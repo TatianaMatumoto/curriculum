@@ -11,6 +11,7 @@ Graduada com <em>Honra Láurea</em> em Tecnologia de Análise e Desenvolvimento 
 
 ## Habilidades & Competências
 
+- 86 Palavras digitadas por minuto (FastFingers)
 - Curso Online de escrita criativa (Módulo II) - Manual Prático do Criador de Histórias (2021) 
 - Curso Online de escrita criativa (Módulo I) - Manual Prático do Criador de Histórias (2021) 
 - WordPress na Prática - Rock University (2021) 
