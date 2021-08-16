@@ -42,5 +42,5 @@ Graduada com <em>Honra Láurea</em> em Tecnologia de Análise e Desenvolvimento 
 - Estágio de Informática Educacional na escola pública municipal de Jaciporã 'EMEFI Sérgio Liberatti' (2019) - Assistente de classe
 - Trabalho voluntário na Biblioteca Pública Municipal de Dracena 'Professora Nilce Teresinha Arinos de Carvalho' (2019) - Operacional e Atendimento 
 (Responsabilidades: atendimento ao cidadão pessoalmente e via telefone; catalogação de livros e ajustes de informações no sistema; supervisão de condições dos materiais; organização dos livros e espaço utilizado)
-- Aulas de Informática Básica e Educacional na UNATI - Unifadra (2018)
+- Aulas de Informática Básica e Educacional na UNATI (Universidade Aberta à Terceira Idade) - Unifadra (2018)
 - Vendedora e Repositora de produtos - Oriental Produtos (2016-2018)
