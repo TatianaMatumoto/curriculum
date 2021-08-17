@@ -42,10 +42,31 @@
 - Semifinalista no Jovens Inovadores - SICREDI (2020)
 - 8ª Posição na classificação dos trabalhos apresentados na subárea de Computação e Informática, na categoria Em Andamento no 20° Congresso Nacional de Iniciação Científica (CONIC) em 2020
 - 3° Encontro de Mulheres na Tecnologia da Informação - EMUTEC (2020)
+
+### Eventos na faculdade
+
+- Gestão Tecnológica em Tempos de Quarentena  - Unifadra (2020)
+- Semana da pessoa com Deficiência - Unifadra (2020)
+- Sistema e gestão de segurança da informação ISSO 27001 - Unifadra (2020)
+- Descomplicando o trabalho acadêmico - Unifadra (2020)
+- Feira das Profissões - Mercado de Trabalho para programadores web - Unifadra (2020)
+- Feira das Profissões - Demonstração da atividade "Programação em Arduino" - Unifadra (2020)
+- Feira das Profissões - Demonstração da atividade desenvolvida na disciplina programação de dispositivos móveis - Unifadra (2020)
+- Mercado de trabalho para programadores WEB - Unifadra (2020)
+- O mercado de trabalho antes, durante e após a pandemia - Unifadra (2020)
 - 10° Edição do Encontro Científico da Alta Paulista - ECAP (2019)
+- Dia da mulher - Unifadra (2019)
+- Revolução 4.0: novas habilidades do perfil profissional e tecnologia - Unifadra (2019)
+- Feira das Profissões - Unifadra (2019)
+- Festa Junina para captação de recursos a formatura acadêmica do curso - Unifadra (2019)
+- Divulgação e Capacitação de Alunos no Enem - Unifadra (2019)
+- Homens & Diálogos: reflexão sobre os modos de subjetivação das masculinidades - Unifadra (2019)
 - 9° Edição do Encontro Científico da Alta Paulista - ECAP (2018)
-- 8° Edição do Encontro Científico da Alta Paulista - ECAP (2017)
-- 
+- Tornar-se mulher no século XXI - Unifadra (2018)
+- Feira das Profissões - Unifadra (2018)
+- III Semana da Inclusão da Pessoa com Deficiência - Unifadra (2018)
+- 8° Edição do Encontro Científico da Alta Paulista - ECAP (2017) 
+
 ## Trabalhos anteriores
 
 - Suporte Técnico - AsA Sistemas (2020) 
