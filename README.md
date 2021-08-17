@@ -16,6 +16,8 @@
 - Curso Online de escrita criativa (Módulo I) - Manual Prático do Criador de Histórias (2021) 
 - WordPress na Prática - Rock University (2021) 
 - Fundamentos do Design Gráfico - Fundação Bradesco (2021)
+- Windows MS-DOS - Videos de TI (2021)
+- Curso Introdução aos Métodos Ágeis - Canal Valor (2020)
 - 6° Maratona de UX Design - UX Unicórnio (2020)
 - Curso Git e GitHub - EaD Education (2020)
 - Curso Empreendedorismo - Unifadra (2020)
@@ -35,6 +37,15 @@
 - Inglês – CENAIC (2013-2014)
 - Web Designer - CENAIC (2013-2014)
 
+## Eventos
+
+- Semifinalista no Jovens Inovadores - SICREDI (2020)
+- 8ª Posição na classificação dos trabalhos apresentados na subárea de Computação e Informática, na categoria Em Andamento no 20° Congresso Nacional de Iniciação Científica (CONIC) em 2020
+- 3° Encontro de Mulheres na Tecnologia da Informação - EMUTEC (2020)
+- 10° Edição do Encontro Científico da Alta Paulista - ECAP (2019)
+- 9° Edição do Encontro Científico da Alta Paulista - ECAP (2018)
+- 8° Edição do Encontro Científico da Alta Paulista - ECAP (2017)
+- 
 ## Trabalhos anteriores
 
 - Suporte Técnico - AsA Sistemas (2020) 
