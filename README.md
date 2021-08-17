@@ -37,6 +37,8 @@
 - Mobile – Alura (2018)
 - Curso de Japonês (2018)
 - Violino - Projeto Guri (2017)
+- Aulas Extracurriculares de Espanhol (2017)
+- Saxofone - Projeto Guri (2017)
 - Inglês – CENAIC (2013-2014)
 - Web Designer - CENAIC (2013-2014)
 - Curso de Violão - Projeto Guri (2013)
