@@ -2,6 +2,7 @@
 
 - Dracena 
 - arumi.matsumoto@gmail.com
+- Desenvolvedora React Native, gosto muito de Design e UX. Adoro aprender coisas variadas desde uma língua exótica a uma metodologia nova. Nas horas vagas, posso fazer de tudo um pouco. Apaixonada por leitura, devoro textos facilmente e sempre atenta a erros de português e concordância. O que mais gosto e fazer é prestar atenção nos detalhes.
 
 
 ## Formação
