@@ -2,12 +2,13 @@
 
 - Dracena 
 - arumi.matsumoto@gmail.com
-- Desenvolvedora React Native, gosto muito de Design e UX. Adoro aprender coisas variadas desde uma língua exótica a uma metodologia nova. Nas horas vagas, posso fazer de tudo um pouco. Apaixonada por leitura, devoro textos facilmente e sempre atenta a erros de português e concordância. O que mais gosto e fazer é prestar atenção nos detalhes.
+- Desenvolvedora React Native, gosto muito de Design e UX. Adoro aprender coisas variadas desde uma língua exótica a uma metodologia nova. Nas horas vagas, posso fazer de tudo um pouco. Apaixonada por leitura, devoro textos facilmente e sempre atenta a erros de português e concordância. O que mais gosto e fazer é prestar atenção nos detalhes. Gosto de disciplinas extracurriculares, psicologia, mundo artístico e criativo. 
 
 
 ## Formação
 
 - Graduada com <em>Honra Láurea</em> em Tecnologia de Análise e Desenvolvimento de Sistemas em Dracena (2020)
+- Certificado de Mérito Escolar - 1° Lugar entre os alunos do 5º ano do Curso de Ensino Fundamental da EMEFI "Professor Waldomiro Machado"
 
 
 ## Habilidades & Competências
@@ -27,7 +28,6 @@
 - Java - DevMedia (2020)
 - Python - DevMedia (2020)
 - Git - DevMedia (2020)
-- Workshop para mulheres: Faça seu primeiro jogo digital - iClinic Carreiras (2020)
 - HTML5, CSS3 E JAVASCRIPT - Learncafe (2019)
 - Curso Básico de Arduino - Unifadra (2019)
 - Curso de Visualização da Informação - Unifadra (2019)
@@ -35,14 +35,25 @@
 - Desenvolvimento Android – Alura (2018) 
 - Sincronismo de dados no Android – Alura (2018)
 - Mobile – Alura (2018)
+- Curso de Japonês (2018)
+- Violino - Projeto Guri (2017)
 - Inglês – CENAIC (2013-2014)
 - Web Designer - CENAIC (2013-2014)
+- Curso de Violão - Projeto Guri (2013)
+- Curso de Flauta Transversal - Projeto Guri (2011/2012)
+- Taiko - Associação Dracenense de Esporte e Cultura ADEC (2011/2012)
 
-## Eventos
+## Premiações
 
 - Semifinalista no Jovens Inovadores - SICREDI (2020)
 - 8ª Posição na classificação dos trabalhos apresentados na subárea de Computação e Informática, na categoria Em Andamento no 20° Congresso Nacional de Iniciação Científica (CONIC) em 2020
+- Vencedora do Concurso YML - (2015)
+
+
+## Eventos
+
 - 3° Encontro de Mulheres na Tecnologia da Informação - EMUTEC (2020)
+- Workshop para mulheres: Faça seu primeiro jogo digital - iClinic Carreiras (2020)
 
 ### Eventos na faculdade
 
