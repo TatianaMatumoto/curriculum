@@ -14,6 +14,7 @@
 ## Habilidades & Competências
 
 - 86 Palavras digitadas por minuto (FastFingers)
+- Certificação em Liderança, Capacidade de Aprender e Resiliência - Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS) - 2021
 - Curso Online de escrita criativa (Módulo II) - Manual Prático do Criador de Histórias (2021) 
 - Curso Online de escrita criativa (Módulo I) - Manual Prático do Criador de Histórias (2021) 
 - WordPress na Prática - Rock University (2021) 
