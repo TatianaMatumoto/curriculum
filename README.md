@@ -41,8 +41,8 @@
 - Aulas Extracurriculares de Espanhol (2017)
 - Inglês – CENAIC (2013-2014)
 - Web Designer - CENAIC (2013-2014)
-- Curso de Violão - Projeto Guri (2013)
-- Curso de Flauta Transversal - Projeto Guri (2011/2012)
+- Violão - Projeto Guri (2013)
+- Flauta Transversal - Projeto Guri (2011/2012)
 - Taiko - Associação Dracenense de Esporte e Cultura ADEC (2011/2012)
 
 ## Premiações
@@ -61,7 +61,7 @@
 
 - Gestão Tecnológica em Tempos de Quarentena  - Unifadra (2020)
 - Semana da pessoa com Deficiência - Unifadra (2020)
-- Sistema e gestão de segurança da informação ISSO 27001 - Unifadra (2020)
+- Sistema e gestão de segurança da informação ISO 27001 - Unifadra (2020)
 - Descomplicando o trabalho acadêmico - Unifadra (2020)
 - Feira das Profissões - Mercado de Trabalho para programadores web - Unifadra (2020)
 - Feira das Profissões - Demonstração da atividade "Programação em Arduino" - Unifadra (2020)
