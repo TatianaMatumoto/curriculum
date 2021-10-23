@@ -19,7 +19,7 @@
 - Curso Online de escrita criativa (Módulo I) - Manual Prático do Criador de Histórias (2021) 
 - WordPress na Prática - Rock University (2021) 
 - Fundamentos do Design Gráfico - Fundação Bradesco (2021)
-- Windows MS-DOS - Videos de TI (2021)
+- Windows MS-DOS - Cursa (2021)
 - Curso Introdução aos Métodos Ágeis - Canal Valor (2020)
 - 6° Maratona de UX Design - UX Unicórnio (2020)
 - Curso Git e GitHub - EaD Education (2020)
